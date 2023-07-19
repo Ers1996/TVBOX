@@ -7,7 +7,6 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vY3d0d3kvVFYvcmF3L1dZL0Vycy50eHQ="]}]}],
 
 
-{
   "sites":[
         //json接口
         {"key":"csp_555","name":"5️555影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/guohuowang/tvbox/raw/master/json/555.json"},
