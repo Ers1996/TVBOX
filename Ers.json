@@ -10,4 +10,5 @@
  {"key":"csp_555","name":"5️555影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/cwtwy/TV/blob/WY/json/555%E5%BD%B1%E8%A7%86.json"},
  {"key": "csp_XYQHiker皮皮鸭","name": "️🌸皮皮鸭┃嗅探","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/cwtwy/TV/blob/WY/json/%E7%9A%AE%E7%9A%AE%E9%B8%AD.json" },
  {"key": "csp_xb_zxzj","name": "在线之家(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/cwtwy/TV/blob/WY/json/zxzj.json"}
+ {"key":"js_超前点播","name" : "超前点播","type" : 3,"api" : "https://gitee.com/cwtwy/TV/blob/WY/api/drpy.min.js","ext" : "https://gitee.com/cwtwy/TV/blob/WY/js/007.js"},
 ]}
