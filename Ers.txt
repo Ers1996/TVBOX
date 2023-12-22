@@ -136,7 +136,6 @@ IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 TVB Xing He HD,http://iptv.tvfix.org/hls/tvbxh.m3u8
 TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
 TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
-Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 Now直播331台,https://api.leonardpark.dev/live/now/331
 5G购 2M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 BTV影视,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
@@ -163,12 +162,6 @@ NewTV精品体育 4M1080,http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/22
 NewTV精品大剧 4M1080,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227618/index.m3u8
 NewTV精品纪录 4M1080,http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
 NewTV金牌综艺 4M1080,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
-NHK Chinese Vision[1280*7,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-NHK WORLD TV,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-Nickelodeon,http://iptv.tvmalaysia.cc:80/kl570/kl570/7201
-NickJr.,http://iptv.tvmalaysia.cc:80/kl570/kl570/6813
-One HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6817
-Sinar FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7172
 SiTV动漫秀场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 SiTV极速汽车 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
 SiTV极速汽车 7.5M1080,http://39.134.39.39/PLTV/88888888/224/3221226310/index.m3u8
