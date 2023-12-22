@@ -295,10 +295,6 @@ Universal Kids FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7205
 WarnerTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/7072
 WWE Network,http://iptv.tvmalaysia.cc:80/kl570/kl570/6849
 YTN[1920*1080],http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-ウェザーニュース[1280*720][1280*7,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-シネフィルWOWOW[1280*720][1280,http://203.162.235.41:16916
-テレビ东京[1280*720][1280*720],http://203.162.235.41:16908
-フジテレビ[1280*720][1280*720],http://203.162.235.41:16904
 மக்கள் தொலைக்காட்சி,http://iptv.tvmalaysia.cc:80/kl570/kl570/8995
 가요TV[1920*1080],http://gayotv.net:1935/live/gayotv/playlist.m3u8
 국악방송[1920*1080],http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
