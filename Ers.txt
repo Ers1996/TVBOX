@@ -275,10 +275,6 @@ StarMoviesHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/8997
 Sun Music,http://iptv.tvmalaysia.cc:80/kl570/kl570/6831
 THR GEGAR,http://iptv.tvmalaysia.cc:80/kl570/kl570/7174
 Thrill,http://iptv.tvmalaysia.cc:80/kl570/kl570/7220
-TJB 대전방송(SBS 大田)[1280*720,http://1.245.74.5:1935/live/tv/.m3u8
-Tokyo MX 1[1280*720][1280,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-Tokyo MX 2[1280*720][1280,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-Tom & Jerry HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/8986
 Trans 7,http://iptv.tvmalaysia.cc:80/kl570/kl570/8844
 TSN 1,http://iptv.tvmalaysia.cc:80/kl570/kl570/8923
 TSN 2,http://iptv.tvmalaysia.cc:80/kl570/kl570/8924
@@ -294,12 +290,6 @@ UK: Sky Sports News,http://iptv.tvmalaysia.cc:80/kl570/kl570/6614
 Universal Kids FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7205
 WarnerTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/7072
 WWE Network,http://iptv.tvmalaysia.cc:80/kl570/kl570/6849
-YTN[1920*1080],http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-மக்கள் தொலைக்காட்சி,http://iptv.tvmalaysia.cc:80/kl570/kl570/8995
-가요TV[1920*1080],http://gayotv.net:1935/live/gayotv/playlist.m3u8
-국악방송[1920*1080],http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-선거방송[1280*720][1280*720],http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-여수MBC(MBC Yeosu)[1280*720,https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
 三立台湾台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立财经新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立都会台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
