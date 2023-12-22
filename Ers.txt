@@ -145,16 +145,6 @@ BTV生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
 BTV科教,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=
 BTV财经,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
 BTV青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
-DSTV: SuperSport Action,http://iptv.tvmalaysia.cc:80/kl570/kl570/6581
-DSTV: Supersport Blitz,http://iptv.tvmalaysia.cc:80/kl570/kl570/6584
-DSTV: SuperSport Football,http://iptv.tvmalaysia.cc:80/kl570/kl570/6576
-DSTV: SuperSport Grandsta,http://iptv.tvmalaysia.cc:80/kl570/kl570/6572
-DSTV: SuperSport MáXimo,http://iptv.tvmalaysia.cc:80/kl570/kl570/6585
-DSTV: SuperSport Motorspo,http://iptv.tvmalaysia.cc:80/kl570/kl570/7142
-DSTV: SuperSport Premier,http://iptv.tvmalaysia.cc:80/kl570/kl570/6574
-DSTV: SuperSport PSL,http://iptv.tvmalaysia.cc:80/kl570/kl570/6573
-DSTV: SuperSport Rugby,http://iptv.tvmalaysia.cc:80/kl570/kl570/6582
-DSTV: SuperSport Variety,http://iptv.tvmalaysia.cc:80/kl570/kl570/6577#http://iptv.tvmalaysia.cc:80/kl570/kl570/6579#http://iptv.tvmalaysia.cc:80/kl570/kl570/6580
 NewTV中国功夫 4M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
 NewTV军事评论 4M1080,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
 NewTV军旅剧场 4M1080,http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
