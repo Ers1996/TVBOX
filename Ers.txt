@@ -193,7 +193,6 @@ SiTV都市剧场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m
 央广购物 2.5M1080,http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227532/index.m3u8
 寰宇新闻,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-日本购物1[1280*720],http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 民视,http://seb.sason.top/ptv/ftv.php?id=ms
 民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
 民视影剧台,http://seb.sason.top/ptv/ftv.php?id=yj
@@ -217,8 +216,6 @@ SiTV都市剧场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m
 精品体育[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
-美亚电影台国语,http://iptv.tvfix.org/hls/mydy2.m3u8
-美亚电影台粤语,http://iptv.tvfix.org/hls/mydy.m3u8
 购物 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226192/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
 超级体育[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 邳州综合 2.5M1080,http://183.207.248.104/ott.js.chinamobile.com/PLTV/3/224/3221227573/index.m3u8
