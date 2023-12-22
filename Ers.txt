@@ -138,11 +138,7 @@ TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
 TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
 Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 Now直播331台,https://api.leonardpark.dev/live/now/331
-ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-4K CESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 5G购 2M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
-Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6694
 BTV影视,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
 BTV文艺,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
 BTV生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
@@ -159,7 +155,6 @@ DSTV: SuperSport Premier,http://iptv.tvmalaysia.cc:80/kl570/kl570/6574
 DSTV: SuperSport PSL,http://iptv.tvmalaysia.cc:80/kl570/kl570/6573
 DSTV: SuperSport Rugby,http://iptv.tvmalaysia.cc:80/kl570/kl570/6582
 DSTV: SuperSport Variety,http://iptv.tvmalaysia.cc:80/kl570/kl570/6577#http://iptv.tvmalaysia.cc:80/kl570/kl570/6579#http://iptv.tvmalaysia.cc:80/kl570/kl570/6580
-Era FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7169
 NewTV中国功夫 4M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
 NewTV军事评论 4M1080,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
 NewTV军旅剧场 4M1080,http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
@@ -192,27 +187,6 @@ SiTV游戏风云 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226187/index.m
 SiTV游戏风云 7.5M1080,http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8
 SiTV都市剧场,http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
 SiTV都市剧场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
-Sony One,http://iptv.tvmalaysia.cc:80/kl570/kl570/8863
-sports[1280*720],https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-StarMoviesHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/8997
-Sun Music,http://iptv.tvmalaysia.cc:80/kl570/kl570/6831
-THR GEGAR,http://iptv.tvmalaysia.cc:80/kl570/kl570/7174
-Thrill,http://iptv.tvmalaysia.cc:80/kl570/kl570/7220
-Trans 7,http://iptv.tvmalaysia.cc:80/kl570/kl570/8844
-TSN 1,http://iptv.tvmalaysia.cc:80/kl570/kl570/8923
-TSN 2,http://iptv.tvmalaysia.cc:80/kl570/kl570/8924
-TSN 3,http://iptv.tvmalaysia.cc:80/kl570/kl570/8925
-TV 3 HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/8750
-tvN,http://iptv.tvmalaysia.cc:80/kl570/kl570/6845#http://iptv.tvmalaysia.cc:80/kl570/kl570/7074#http://iptv.tvmalaysia.cc:80/kl570/kl570/8865
-ufc 2[512*288],https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-UK: Sky Sports Cricket,http://iptv.tvmalaysia.cc:80/kl570/kl570/6619
-UK: Sky Sports F1,http://iptv.tvmalaysia.cc:80/kl570/kl570/6617
-UK: Sky Sports Football,http://iptv.tvmalaysia.cc:80/kl570/kl570/6620
-UK: Sky Sports Golf,http://iptv.tvmalaysia.cc:80/kl570/kl570/6618
-UK: Sky Sports News,http://iptv.tvmalaysia.cc:80/kl570/kl570/6614
-Universal Kids FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7205
-WarnerTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/7072
-WWE Network,http://iptv.tvmalaysia.cc:80/kl570/kl570/6849
 三立台湾台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立财经新闻台,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立都会台,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
