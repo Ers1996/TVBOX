@@ -143,56 +143,12 @@ ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 4K CESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 5G购 2M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6694
-Animax,http://iptv.tvmalaysia.cc:80/kl570/kl570/6696
-Animax HD,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
-Animax Japan (Vietnamese,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
-AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-ANTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/8846
-Arena 2,http://iptv.tvmalaysia.cc:80/kl570/kl570/9028
-ASSP 2,http://iptv.tvmalaysia.cc:80/kl570/kl570/9025
-ASSP 3 (LIVE EPL ONLY),http://iptv.tvmalaysia.cc:80/kl570/kl570/9020
-ASTRO Arena HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6707
-ASTRO Awani HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6714
-ASTRO Ceria HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6715
-Astro Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/kl570/kl570/7267
-ASTRO Colors Tamil,http://iptv.tvmalaysia.cc:80/kl570/kl570/6716
-ASTRO Cricket,http://iptv.tvmalaysia.cc:80/kl570/kl570/6717
-ASTRO Star Vijay HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6732
-ASTRO SUPERSPORT 2 HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6710
-ASTRO SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6711
-ASTRO SUPERSPORT 4 HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6712
-Astro Supersport 5,http://iptv.tvmalaysia.cc:80/kl570/kl570/9029
-ASTRO Vaanavil HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6738
-Awesome TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/9016
-AXN,http://iptv.tvmalaysia.cc:80/kl570/kl570/7223
-BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-beIN MAX 2,http://iptv.tvmalaysia.cc:80/kl570/kl570/7195
-BloombergTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/6751
-BlueAntExtreme,http://iptv.tvmalaysia.cc:80/kl570/kl570/8861
-BollyOne HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6754
-Boomerang,http://212.95.133.2/ub.php?id=57
-BT Sport 1,http://iptv.tvmalaysia.cc:80/kl570/kl570/6610
-BT Sport 2,http://iptv.tvmalaysia.cc:80/kl570/kl570/6611
-BT Sport 3,http://iptv.tvmalaysia.cc:80/kl570/kl570/6612
 BTV影视,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
 BTV文艺,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
 BTV生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
 BTV科教,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=
 BTV财经,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
 BTV青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/kl570/kl570/7222
-Celestial Movies,http://iptv.tvmalaysia.cc:80/kl570/kl570/7235
-CGNTV Japan[1280*720],http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
-CGNTV[1280*720],http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
-Chutti TV,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
-CI,http://iptv.tvmalaysia.cc:80/kl570/kl570/9009
-cinemaworld,http://iptv.tvmalaysia.cc:80/kl570/kl570/7219
-Cinemax FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7062
-CNBCHongKong,http://iptv.tvmalaysia.cc:80/kl570/kl570/8849
-CNN Indonesia,http://iptv.tvmalaysia.cc:80/kl570/kl570/8851
-Colors HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6769
-Discovery Channel HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7078
-Disney XD FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7198
 DSTV: SuperSport Action,http://iptv.tvmalaysia.cc:80/kl570/kl570/6581
 DSTV: Supersport Blitz,http://iptv.tvmalaysia.cc:80/kl570/kl570/6584
 DSTV: SuperSport Football,http://iptv.tvmalaysia.cc:80/kl570/kl570/6576
@@ -204,39 +160,6 @@ DSTV: SuperSport PSL,http://iptv.tvmalaysia.cc:80/kl570/kl570/6573
 DSTV: SuperSport Rugby,http://iptv.tvmalaysia.cc:80/kl570/kl570/6582
 DSTV: SuperSport Variety,http://iptv.tvmalaysia.cc:80/kl570/kl570/6577#http://iptv.tvmalaysia.cc:80/kl570/kl570/6579#http://iptv.tvmalaysia.cc:80/kl570/kl570/6580
 Era FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7169
-FoodNetwork美食台,http://iptv.tvmalaysia.cc:80/kl570/kl570/6693
-Fox Crime,http://iptv.tvmalaysia.cc:80/kl570/kl570/7225
-Fox Family Movie,http://iptv.tvmalaysia.cc:80/kl570/kl570/9027
-FOXSports,http://iptv.tvmalaysia.cc:80/kl570/kl570/6792
-FS 1,http://iptv.tvmalaysia.cc:80/kl570/kl570/9003
-Galaxy Premium,http://iptv.tvmalaysia.cc:80/kl570/kl570/8838
-HBO FHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7067
-HBOFamily,http://iptv.tvmalaysia.cc:80/kl570/kl570/7070
-HBOHD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7071
-HBOHits,http://iptv.tvmalaysia.cc:80/kl570/kl570/7068
-HGTV居家乐活,http://iptv.tvmalaysia.cc:80/kl570/kl570/7076
-History,http://iptv.tvmalaysia.cc:80/kl570/kl570/7079
-HITS,http://iptv.tvmalaysia.cc:80/kl570/kl570/6800#http://iptv.tvmalaysia.cc:80/kl570/kl570/7066
-Hot FM,http://iptv.tvmalaysia.cc:80/kl570/kl570/7170
-J2,http://iptv.tvfix.org/hls/j2.m3u8
-Jasmin TV[1280*720][1280*,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Jaya Max,http://iptv.tvmalaysia.cc:80/kl570/kl570/6802
-KBC 광주방송(SBS 光州)[1920*108,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBS World HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/6803
-KBS World[1024*576][1024*,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-KBS World[1920*1080][1920,http://125.227.210.37:8935/VideoInput/play.ts
-KCTV 광주 CH05[1280*720],http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-KiX,http://iptv.tvmalaysia.cc:80/kl570/kl570/7229
-Kompas TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/8850
-LFC TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/7237
-LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
-Makkal TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/6806
-Metro TV,http://iptv.tvmalaysia.cc:80/kl570/kl570/8848
-MTN[1280*720],http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-MUTV,http://iptv.tvmalaysia.cc:80/kl570/kl570/7236
-National Geographic HD,http://iptv.tvmalaysia.cc:80/kl570/kl570/7075
-NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-New Japan Pro Wrestling W,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 NewTV中国功夫 4M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227530/index.m3u8
 NewTV军事评论 4M1080,http://223.110.243.167/ott.js.chinamobile.com/PLTV/3/224/3221227544/index.m3u8
 NewTV军旅剧场 4M1080,http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227603/index.m3u8
