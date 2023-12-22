@@ -136,8 +136,6 @@ IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 TVB Xing He HD,http://iptv.tvfix.org/hls/tvbxh.m3u8
 TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
 TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
-Now直播331台,https://api.leonardpark.dev/live/now/331
-5G购 2M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 BTV影视,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
 BTV文艺,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
 BTV生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
