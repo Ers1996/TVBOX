@@ -6,15 +6,17 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vY3d0d3kvVFYvcmF3L1dZL0Vycy50eHQ="]}]}],
 "epg":"https://epg.erw.cc/api/diyp",
 "logo":"https://epg.112114.xyz/logo/{name}.png",
- "sites": [
-        {
-            "key":"豆瓣",
-            "name":"豆瓣",
-            "type":3,
-            "api":"https://gitee.com/cwtwy/TV/raw/WY/api/lib/drpy2.min.js",
-            "ext":"https://gitee.com/cwtwy/TV/raw/WY/js/douban.js"
-        },
-{"key":"素衣清风","name":"素衣清风","type":3,"api":"https://gitee.com/cwtwy/TV/raw/WY/api/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/cwtwy/TV/raw/WY/js/douban.js"},
+ "sites": [    
+{
+    "key":"素衣清风",
+    "name":"素衣清风",
+    "type":3,
+    "api":"https://gitee.com/cwtwy/TV/raw/WY/api/lib/drpy2.min.js",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"https://gitee.com/cwtwy/TV/raw/WY/js/douban.js"
+    },
 {"key":"007","name":"007","type":3,"api":"https://gitee.com/cwtwy/TV/raw/WY/api/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/cwtwy/TV/raw/WY/js/007.js"},
 {"key":"csp_NanGua","name":"南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"", "jar":"http://ftp6284928.host108.abeiyun.cn/jar/more.txt;md5;c263725cc4502bae4a02f4b71cc1af71"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
