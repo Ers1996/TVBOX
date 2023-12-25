@@ -15,7 +15,7 @@
     "searchable":0,
     "quickSearch":0,
     "filterable":1,
-    "ext":"https://gitee.com/cwtwy/TV/raw/WY/js/douban.js"
+    "ext":"https://gitee.com/cwtwy/TV/raw/WY/json/555%E5%BD%B1%E8%A7%86.json"
     },
 {"key":"007","name":"007","type":3,"api":"https://gitee.com/cwtwy/TV/raw/WY/api/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/cwtwy/TV/raw/WY/js/007.js"},
 {"key":"csp_NanGua","name":"南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"", "jar":"http://ftp6284928.host108.abeiyun.cn/jar/more.txt;md5;c263725cc4502bae4a02f4b71cc1af71"},
