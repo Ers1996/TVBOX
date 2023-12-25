@@ -1,14 +1,12 @@
 {
-"spider":"https://gitee.com/cwtwy/TV/raw/WY/Ers.jar",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CE6C4DB34B73FB63711906DFA9152021",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vY3d0d3kvVFYvcmF3L1dZL0Vycy50eHQ="]}]}],
 "epg":"https://epg.erw.cc/api/diyp",
 "logo":"https://epg.112114.xyz/logo/{name}.png",
-{
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CE6C4DB34B73FB63711906DFA9152021",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
 {"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
