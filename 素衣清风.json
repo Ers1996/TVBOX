@@ -1,5 +1,5 @@
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CE6C4DB34B73FB63711906DFA9152021",
+	"spider": "https://gitee.com/cwtwy/TV/raw/WY/素衣清风.jar;md5;ce6c4db34b73fb63711906dfa9152021",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 
@@ -9,7 +9,7 @@
 "logo":"https://epg.112114.xyz/logo/{name}.png",
 
 	"sites":[
-{"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"csp_DouDou","name":"🔍豆瓣┃素衣清风","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy33.com/"},
 {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
