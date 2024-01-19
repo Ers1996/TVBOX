@@ -1099,13 +1099,6 @@ CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN西语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN纪实,https://livedoc.cgtn.com/500d/prog_index.m3u8
-Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-Channel News Asia『蓝光』,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA(1080p)[480*270],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-NDTV 24X7[640*480],https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-THAIPBS-3,http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 俄·IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄·RBC(Opt-1)[996*560],http://92.50.128.180/utv/1358/index.m3u8
