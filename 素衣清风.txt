@@ -1052,10 +1052,6 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 纬来育乐,rtmp://59.124.75.138/sat/tv701$高清720P
 纬来体育,rtmp://59.124.75.150/sat/tv721$高清720P
 纬来体育,rtmp://59.124.75.138/sat/tv721$高清720P
-大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8$高清720P
-大爱,https://pulltv2.wanfudaluye.com/live/tv2.m3u8$高清720P
-好消息1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8$高清720P
-好消息2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8$高清720P
 中视,rtmp://59.124.75.138/sat/tv091$高清720P
 中视,rtmp://59.124.75.150/sat/tv091$高清720P
 华视,rtmp://59.124.75.138:1935/sat/tv111$高清720P
@@ -1074,14 +1070,9 @@ TVBS欢乐,rtmp://59.124.75.138/sat/tv421$高清720P
 J2台,http://sc2022.stream-link.org/tv2306.php?id=h03
 无线新闻台,http://sc2022.stream-link.org/tv2306.php?id=h04
 无线财经体育资讯,http://sc2022.stream-link.org/tv2306.php?id=h05
-RTHK31,http://sc2022.stream-link.org/tv2306.php?id=h08
-RTHK32,http://sc2022.stream-link.org/tv2306.php?id=h09
-RTHK33,http://sc2022.stream-link.org/tv2306.php?id=h10
 香港国际财经台,http://sc2022.stream-link.org/tv2306.php?id=h12
 香港开电视,http://sc2022.stream-link.org/tv2306.php?id=h13
 香港开电视资讯台,http://sc2022.stream-link.org/tv2306.php?id=h14
-日·NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-日·QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 韩·BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 韩·EBS-1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 韩·EBS-1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
@@ -1134,13 +1125,10 @@ ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil
 韩国-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 韩国-MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩国-NBS Korea Agricultural Broadc,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 越南-VBSTV,http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 印尼-METROTV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 伊朗-PBCTapeshTV,http://iptv.tapesh.tv/tapesh/playlist.m3u8
 伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-日本Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
-日本UN WeTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
