@@ -7,7 +7,7 @@
       "type": 0,
       "url": "https://gitee.com/cwtwy/TV/raw/WY/素衣清风.txt",
       "playerType": 1,
-      "epg": "https://epg.erw.cc/api/diyp",
+      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
