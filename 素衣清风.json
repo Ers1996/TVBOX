@@ -11,7 +11,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "epg": "https://epg.erw.cc/api/diyp",
+  "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
   "logo": "https://epg.112114.xyz/logo/{name}.png",
   "sites": [
     {
